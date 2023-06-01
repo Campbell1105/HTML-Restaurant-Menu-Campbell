@@ -33,6 +33,10 @@ nav {
 	padding: 10px;
 }
 
+.no-bullets {
+  list-style: none;
+}
+
 nav ul {
 	list-style-type: none;
 	text-align: center;
